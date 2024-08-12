@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhahahaa&label=Profile%20views&color=0e75b6&style=flat" alt="erhahahaa" /> </p>
 
-- 📫 How to reach us *bokirsianpar95@gmail.com*
+- 📫 How to reach us *rahmat@zenta.dev*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
