@@ -1,12 +1,11 @@
 <div align="center"> 
-
   <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?" 
   alt="Programming Banner" 
-  style="width: 80%; height: 150px; border-radius: 10px; object-fit: cover;" />
+  style="width: 80%; height: auto; border-radius: 10px; object-fit: cover; max-height: 300px;" />
 
-   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=10b981&center=true&vCenter=true&width=500&lines=--+Hi,I'm+Rahmat+Hidayatullah+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erhahahaa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
