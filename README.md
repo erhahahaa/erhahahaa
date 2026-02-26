@@ -17,16 +17,16 @@
 
 <h2 align="center">📊 GitHub Insights</h2>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erhahahaa&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erhahahaa&theme=radical" alt="GitHub Streak" />
-</p> -->
+</p>
 
 <h2 align="center">🏆 Achievements Showcase</h2>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=erhahahaa&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p> -->
+</p>
 
 <h2 align="center">🌐 Let's Connect!</h2>
 
