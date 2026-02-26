@@ -17,16 +17,16 @@
 
 <h2 align="center">📊 GitHub Insights</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erhahahaa&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erhahahaa&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <h2 align="center">🏆 Achievements Showcase</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=erhahahaa&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 <h2 align="center">🌐 Let's Connect!</h2>
 
@@ -37,10 +37,10 @@
   <a href="https://linkedin.com/in/rahmat-hidayatullah-513710116" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://blog.zenta.dev/" target="_blank">
+  <!-- <a href="https://blog.zenta.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:rahmat@zenta.dev">
+  </a> -->
+  <a href="mailto:rahmat.zenta@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://cv.zenta.dev/p/rahmat-hidayatullah" target="_blank">
