@@ -10,8 +10,8 @@
 <h2 align="center">🛠️ Tech Mastery</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,go,kotlin,rust,ts,python,php,js,flutter,react,nextjs,svelte,tailwind" alt="Languages & Frontend" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mongodb,mysql,sqlite,aws,docker,grafana,nginx,git" alt="Backend, Databases & DevOps" /><br>
+  <img src="https://skillicons.dev/icons?i=dart,go,rust,ts,php,js,flutter,react,nextjs,tailwind" alt="Languages & Frontend" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mongodb,mysql,sqlite,docker,grafana,nginx,git" alt="Backend, Databases & DevOps" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,firebase,linux" alt="Design & Other" />
 </p>
 
